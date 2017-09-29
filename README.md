@@ -1,1 +1,1 @@
-# myTodoApp - https://hanapotski.github.io/myTodoApp/
+# myTodoApp - https://hanapotski.github.io/mytodoapp/
